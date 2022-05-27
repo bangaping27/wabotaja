@@ -1,1 +1,0 @@
-exports.exp = require('./this')
